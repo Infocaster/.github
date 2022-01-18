@@ -13,4 +13,4 @@ This pull request...
 - [ ] ... does not introduce new bugs or negatively impact the user experience  
 - [ ] ... has automated tests that prove that the proposed change works
 
-@infocaster/developer
+@Infocaster/Developers
