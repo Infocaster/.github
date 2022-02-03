@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
+_Using version: [e.g. 5.0.0-beta.4]_
 A clear and concise description of what the bug is.
 
 **To Reproduce**
