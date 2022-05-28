@@ -1,6 +1,10 @@
 <h3 align="center">
-    
-![Infocaster logo](/assets/Infocaster_Logo_Credo_White.png#gh-dark-mode-only)
-![Infocaster logo](/assets/Infocaster_Logo_Credo_RGB.png#gh-light-mode-only)
+
+<a href="https://infocaster.net">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infocaster/.github/main/assets/Infocaster_Logo_Credo_White.png">
+<img alt="Infocaster Logo" src="https://raw.githubusercontent.com/Infocaster/.github/main/assets/Infocaster_Logo_Credo_RGB.png">
+</picture>
+</a>
     
 </h3>
